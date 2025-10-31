@@ -1,4 +1,4 @@
 # FirstRepo
-It is my first project on github.
+This is my first repo on github.
 <br>
 Author - Akarsh Singh
